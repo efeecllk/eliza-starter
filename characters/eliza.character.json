@@ -3,6 +3,7 @@
   "plugins": [],
   "clients": [],
   "modelProvider": "openai",
+  
   "settings": {
     "secrets": {},
     "voice": {
