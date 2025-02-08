@@ -1,7 +1,8 @@
 {
     "name": "trump",
-    "clients": [],
+    "clients": ["discord"],
     "modelProvider": "openai",
+    "model": "small",
     "settings": {
         "secrets": {},
         "voice": {
