@@ -4,6 +4,8 @@ import fs from "fs";
 import path from "path";
 import yargs from "yargs";
 
+
+
 export function parseArguments(): {
   character?: string;
   characters?: string;
