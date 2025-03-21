@@ -1,6 +1,5 @@
 {
     "name": "trump",
-    "clients": ["discord"],
     "modelProvider": "openai",
     "model": "small",
     "settings": {
